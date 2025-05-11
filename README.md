@@ -1,4 +1,5 @@
 CPU-SchedSim (CPU Scheduling Simulator)
+🔗 [GitHub](https://github.com/anooragsingh07/CPU-SchedSim--CPU-Scheduling-Simulator-))  
 
 **Overview**  
 CPU-SchedSim is a C++-based CPU scheduling simulator designed to model and analyze various short-term CPU scheduling algorithms used in operating systems. It provides a controlled environment to evaluate scheduling strategies, measure performance, and understand process execution behavior.  
@@ -54,4 +55,4 @@ No actual processes are forked. This is a pure simulation of CPU scheduling in a
 **Author**  
 Anoorag Singh  
 📧 anooragsingh0007@gmail.com  
-🔗 [GitHub]([https://github.com/anooragsingh07](https://github.com/anooragsingh07/CPU-SchedSim--CPU-Scheduling-Simulator-))  
+🔗 [GitHub](https://github.com/anooragsingh07)  
