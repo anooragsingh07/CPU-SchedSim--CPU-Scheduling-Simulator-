@@ -54,4 +54,4 @@ No actual processes are forked. This is a pure simulation of CPU scheduling in a
 **Author**  
 Anoorag Singh  
 📧 anooragsingh0007@gmail.com  
-🔗 [GitHub](https://github.com/anooragsingh07)  
+🔗 [GitHub]([https://github.com/anooragsingh07](https://github.com/anooragsingh07/CPU-SchedSim--CPU-Scheduling-Simulator-))  
