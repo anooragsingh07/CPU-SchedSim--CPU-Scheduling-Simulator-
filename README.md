@@ -4,7 +4,7 @@ CPU-SchedSim (CPU Scheduling Simulator)
 **Overview**  
 CPU-SchedSim is a C++-based CPU scheduling simulator designed to model and analyze various short-term CPU scheduling algorithms used in operating systems. It provides a controlled environment to evaluate scheduling strategies, measure performance, and understand process execution behavior.  
 
-**Supported Scheduling Algorithms  
+**Supported Scheduling Algorithms**
 The simulator includes five major CPU scheduling algorithms, with a configurable context switch time of 14 milliseconds:  
 
 1. First-Come, First-Served (FCFS) – Non-preemptive scheduling where the first arriving process gets executed first.  
